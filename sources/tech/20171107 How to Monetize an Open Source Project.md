@@ -1,3 +1,4 @@
+Translating by cpdsg
 How to Monetize an Open Source Project
 ======
 
